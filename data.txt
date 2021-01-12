@@ -1,0 +1,7 @@
+Data Peminjaman Buku
+Kode Member		: M02
+Nama Member		: Budi
+Judul Buku 		: Pemrograman Pascal
+Tanggal Mulai Peminjaman: 2018-12-11
+Tanggal Maks Peminjaman	: 2018-12-18
+Tanggal Pengembalian	: 2018-12-26
